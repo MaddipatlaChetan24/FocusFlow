@@ -1,4 +1,4 @@
-# 🌊 FocusFlow
+#  FocusFlow
 
 [![GitHub license](https://img.shields.io/github/license/mchetan/focusflow?style=for-the-badge)](https://github.com/mchetan/focusflow/blob/main/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/mchetan/focusflow?style=for-the-badge)](https://github.com/mchetan/focusflow/stargazers)
