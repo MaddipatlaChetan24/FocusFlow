@@ -36,15 +36,6 @@ FocusFlow brings all your productivity tools into one centralized "Command Cente
 
 ---
 
-## 🚀 Live Demo
-
-You can view the project live by opening `index.html` in any modern browser.
-
-> [!NOTE]
-> For the best experience, please use a browser that supports CSS Grid and Flexbox (e.g., Chrome, Firefox, Safari).
-
----
-
 ## 🛠️ Tech Stack
 
 FocusFlow is built with a minimalist approach using pure web technologies:
